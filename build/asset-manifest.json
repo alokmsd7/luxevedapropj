@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.92588718.css",
+    "main.js": "/static/js/main.9200eeee.js",
+    "static/media/remixicon.svg?t=1590207869815": "/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/remixicon.eot?t=1590207869815": "/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/arm-chair-01.jpg": "/static/media/arm-chair-01.a833c1dc7e5bd62e5204.jpg",
+    "static/media/hero-img.png": "/static/media/hero-img.bb1a33f428a40b01898b.png",
+    "static/media/counter-timer-img.png": "/static/media/counter-timer-img.21c788591a1b73363c68.png",
+    "static/media/arm-chair-02.jpg": "/static/media/arm-chair-02.76125c7328ea08f6a4ed.jpg",
+    "static/media/wireless-01.png": "/static/media/wireless-01.efb320aad2e379ff408a.png",
+    "static/media/remixicon.woff?t=1590207869815": "/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/remixicon.woff2?t=1590207869815": "/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/arm-chair-03.jpg": "/static/media/arm-chair-03.4143cff430150797c7fc.jpg",
+    "static/media/thiet-ke-shop-thoi-trang-nam-lozalo-3.jpg": "/static/media/thiet-ke-shop-thoi-trang-nam-lozalo-3.5df19e4eedaeb35827ac.jpg",
+    "static/media/single-sofa-01.jpg": "/static/media/single-sofa-01.061085096c3607797a24.jpg",
+    "static/media/wireless-03.png": "/static/media/wireless-03.10ede6e41906f755c983.png",
+    "static/media/phone-03.png": "/static/media/phone-03.9519b1c0d4a8c2ffc308.png",
+    "static/media/eco-logo.png": "/static/media/eco-logo.150ffa2179bbf19c47f6.png",
+    "static/media/double-sofa-02.png": "/static/media/double-sofa-02.83d2ef3ac1aa0f61723b.png",
+    "static/media/double-sofa-03.png": "/static/media/double-sofa-03.24442d2e09a6b84305d9.png",
+    "static/media/single-sofa-04.png": "/static/media/single-sofa-04.4415ff4f9ae1863f90cf.png",
+    "static/media/double-sofa-01.png": "/static/media/double-sofa-01.ecc5d1006ff2f4a61736.png",
+    "static/media/phone-05.jpg": "/static/media/phone-05.a0385d8117ba6b411dcf.jpg",
+    "index.html": "/index.html",
+    "main.92588718.css.map": "/static/css/main.92588718.css.map",
+    "main.9200eeee.js.map": "/static/js/main.9200eeee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92588718.css",
+    "static/js/main.9200eeee.js"
+  ]
+}
