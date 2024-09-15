@@ -54,8 +54,8 @@ const Home = () => {
         <Col lg='6' md='6'>
           <div className="hero__content">
             <p className="hero__subtitle">Trending product in {year}</p>
-            <h2>Make Your Interior More Min & Modern</h2>
-            <p>Welcome Hello Baby</p>
+            <h2>Make Your Body More Fit & Asthetic</h2>
+            <p>Welcome Home of Fitworld</p>
             <motion.button whileTap={{scale:1.2}} className="buy__btn" ><Link to='/shop'>SHOP NOW</Link></motion.button>
           </div>
         </Col>
